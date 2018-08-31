@@ -72,3 +72,10 @@ share
 ssl
 var
 x86_64-conda_cos6-linux-gnu
+doc
+mkspecs
+libexec
+phrasebooks
+qml
+translations
+resources
