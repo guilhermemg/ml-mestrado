@@ -81,3 +81,4 @@ translations
 resources
 
 notebooks/catboost_info/
+notebooks/assignment4-models/*.p
