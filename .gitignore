@@ -79,3 +79,5 @@ phrasebooks
 qml
 translations
 resources
+
+notebooks/catboost_info/
